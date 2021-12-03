@@ -1,0 +1,59 @@
+html {
+    background-color:aliceblue
+}
+.cabeca{
+    background-color:#87cefa;
+    font-family: fantasy;
+    font-size: 24px;
+    height: 120px;
+    text-align: center;
+    margin-top: -40px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+#s1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.row {
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+}
+.card {
+    background-color:#87cefa;
+    color:black;
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px;
+    padding: 30px;
+    margin: 20px;
+    width: 400px;
+}
+.b1{
+  background-color:#87cefa;
+  border: none;
+  color: black;
+  padding: 1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.buttonn{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    border: none;
+    background-color:azure;
+}
+.info{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    border: none;
+    background-color:azure;
+}
+
+#ult{
+    text-align: center;
+}
